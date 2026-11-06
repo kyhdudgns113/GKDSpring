@@ -29,7 +29,7 @@
       "@context": [ "./src/manager/contexts" ],
       "@fetch": [ "./src/base/fetch" ],
 
-      "@httpType": [ "./src/base/types/httpTypes" ],
+      "@httpType": [ "./src/base/common/httpTypes" ],
       "@nullValue": [ "./src/base/values/nullValues" ],
       "@page": [ "./src/pages" ],
       "@prop": [ "./src/base/types/props" ],

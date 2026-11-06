@@ -1,0 +1,14 @@
+@use '../../../base/styles/values.scss' as v;
+
+.Righter {
+  background-color: #f0c0c0;
+  display: flex;
+
+  height: 100%;
+
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: v.$Template_Righter_Width;
+  z-index: v.$Template_Sidebar_ZIndex;
+}
