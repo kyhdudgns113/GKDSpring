@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/kyhdudgns113/ReactClientSpring
+[submodule "server"]
+	path = server
+	url = https://github.com/kyhdudgns113/GKDSpringServer
